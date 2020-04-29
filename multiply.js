@@ -1,3 +1,4 @@
 let mult = (a,b) => {
-  return (a * b);
+  let v = 34;
+  return v(a * b);
 }
