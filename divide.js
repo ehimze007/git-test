@@ -1,3 +1,4 @@
 let divide = (a,b) => {
-  return a/b;
+  let anotherOperation = (a*b);
+  return anotherOperation/b;
 }
